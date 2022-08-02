@@ -1040,3 +1040,13 @@ h4 {
         text-align: center;
     }
 }
+
+img.img-responsive.portfolio-thumb {
+    max-width: unset;
+    width: 100%;
+}
+
+.row.row-no-gutters.social {
+    display: flex;
+    justify-content: space-between;
+}
